@@ -2,7 +2,7 @@
 - 👀 I’m interested in Austrian School Economics, Agorism and using technology to further these goals
 - 💞️ I’m looking to collaborate on Bitcoin, Lightning and Ethereum Projects
 - :man_student:	https://haroldthan.me
-- 📫 thanvinhbaohoang@gmail.com
+- 📫 haroldthan@gmail.com
 
 <!---
 thanvinhbaohoang/thanvinhbaohoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
