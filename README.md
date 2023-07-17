@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thanvinhbaohoang but everyone call me Harold Than
-- 👀 I’m interested in Austrian School Economics, Agorism and using technology to further these goals
+- 👀 I’m interested in doing cool stuffs because Why Not? Life is more fun that way ;)
 - 💞️ I’m looking to collaborate on Bitcoin, Lightning and Ethereum Projects
 - :man_student:	https://haroldthan.me
 - 📫 haroldthan@gmail.com
